@@ -1,6 +1,6 @@
 # Hi there, I'm Oskar! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-patrycja-gomza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
 
 ## About Me:
 - 🔭 I’m currently working on group project: **movies-browser**, and my personal project: **mix_review_mvp_app**
