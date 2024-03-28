@@ -12,9 +12,18 @@
 
 ## Technologies and Tools:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-999999?style=flat-square&logo=redux-saga)
+![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
+
 
 
 ## GitHub Stats:
