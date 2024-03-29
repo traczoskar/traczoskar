@@ -24,11 +24,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
 
-
-
-## GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true)
-
+## Most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traczoskar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Connect with me:
