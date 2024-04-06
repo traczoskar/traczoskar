@@ -1,18 +1,20 @@
 # ⚛️ Oskar Tracz 
 
+<img alt="Frontend Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A630B0&center=false&vCenter=true&width=435&lines=Frontend+Developer">
+
 **`Digital Craftsman (Developer / SoundEngineer / Creator)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
+<p align="left">👨🏻‍💻 I'm an <strong>React Frontend Developer</strong> focused on user-centric design and modern technologies. Motivated by a strong interest in innovation, I develop solutions that meet user needs effectively. Beyond my primary role, I apply insights from sound engineering to create applications that serve specific industry requirements. My goal is to tackle challenges methodically, improving processes and outcomes with each line of code I write.</p>
 
-## About Me:
-- 🔭 I’m currently working on group project: **movies-browser**, and my personal project: **mix_review_mvp_app**
-- 🌱 I’m currently learning LLM AI implementation and practicing my TypeScript skills.
-- 💬 Ask me about any app that's embedded with sound engineering topic 🎚
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
+
+## ✅&nbsp; Facts:
+- 🔭 I’m currently working on the group project: 🎥 **<a href="https://github.com/OlgaCybulska/movies-browser">Movies Browser</a>**.
+- 🌱 I’m currently learning **LLM AI implementation** and practicing my **TypeScript** skills.
 - 📫 How to reach me: **traczoskar@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Everyday I get some new idea for app.
+- ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
 
-## Technologies and Tools:
+## 🛠&nbsp; Technologies and Tools:
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![React](https://camo.githubusercontent.com/31b08faa61951179c95f91d42f8ce1b56012e80fa6e269d23221031d1b13fd0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b)
