@@ -34,9 +34,14 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 
-## Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traczoskar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊&nbsp; Some stats:
 
+<a href="https://github.com/traczoskar">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traczoskar&layout=compact" />
+</a>
+<a href="https://github.com/traczoskar">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true&theme=gruvbox&rank_icon=github" />
+</a>
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
