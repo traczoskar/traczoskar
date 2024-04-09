@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
 
-## ✅&nbsp; Facts:
+## 🟣&nbsp; Facts:
 - 🔭 I’m currently working on the group project: 🎥 **<a href="https://github.com/OlgaCybulska/movies-browser">Movies Browser</a>**.
 - 🌱 I’m currently learning **LLM AI implementation** and practicing my **TypeScript** skills.
 - 📫 How to reach me: **traczoskar@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
@@ -34,7 +34,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 
-## 📊&nbsp; Some stats:
+## 📈&nbsp; Some stats:
 
 <a href="https://github.com/traczoskar">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traczoskar&layout=compact" />
@@ -43,5 +43,5 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true&theme=gruvbox&rank_icon=github" />
 </a>
 
-## Connect with me:
+## 📩&nbsp; Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
