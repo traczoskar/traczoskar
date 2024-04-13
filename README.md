@@ -33,6 +33,14 @@
 ![Figma](https://img.shields.io/badge/Figma-69D3AC.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
+## 🎯&nbsp; Want to learn:
+
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 📈&nbsp; Some stats:
 
@@ -42,6 +50,3 @@
 <a href="https://github.com/traczoskar">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true&theme=gruvbox&rank_icon=github" />
 </a>
-
-## 📩&nbsp; Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
