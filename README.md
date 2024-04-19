@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
 
 ## 🟣&nbsp; Facts:
-- 🔭 I’m currently working on the group project: 🎥 **<a href="https://github.com/OlgaCybulska/movies-browser">Movies Browser</a>**.
+- 🔭 I’m currently working on my project: 🌦 **<a href="https://github.com/traczoskar/weather_app">Weather App</a>** which will be integrated with Generative AI.
 - 🌱 I’m currently learning **LLM AI implementation** and practicing my **TypeScript** skills.
 - 📫 How to reach me: **traczoskar@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
 - ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
