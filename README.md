@@ -23,6 +23,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Redux](https://img.shields.io/badge/React_Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999.svg?style=for-the-badge&logo=redux-saga&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
