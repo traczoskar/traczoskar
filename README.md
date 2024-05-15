@@ -10,7 +10,7 @@
 
 ## 🟣&nbsp; Facts:
 - 🔭 I’m currently working on my project: 🌦 **<a href="https://github.com/traczoskar/weather_app">Weather App</a>** which will be integrated with Generative AI.
-- 🌱 I’m currently learning **LLM AI implementation** and practicing my **TypeScript** skills.
+- 🌱 I’m currently learning **Building useful Apps integrated with AI** and practicing my **TypeScript** skills.
 - 📫 How to reach me: **traczoskar@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
 - ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
 
@@ -34,12 +34,16 @@
 ![Figma](https://img.shields.io/badge/Figma-69D3AC.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
+## 🏋️‍♀️&nbsp; In progress:
+
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 ## 🎯&nbsp; Want to learn:
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 📈&nbsp; Some stats:
