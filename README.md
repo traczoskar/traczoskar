@@ -14,37 +14,38 @@
 - 📫 How to reach me: **traczoskar@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
 - ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
 
+  
+
 ## 🛠&nbsp; Technologies and Tools:
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![React](https://camo.githubusercontent.com/31b08faa61951179c95f91d42f8ce1b56012e80fa6e269d23221031d1b13fd0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Redux](https://img.shields.io/badge/React_Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999.svg?style=for-the-badge&logo=redux-saga&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![Create React App](https://img.shields.io/badge/Create_React_App-09D3AC.svg?style=for-the-badge&logo=create-react-app&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-69D3AC.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-222222.svg?style=for-the-badge&logo=openai&logoColor=69D3AC)
+![React](https://img.shields.io/badge/React-222222.svg?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-222222.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-222222.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Styled Components](https://img.shields.io/badge/Styled_Components-222222.svg?style=for-the-badge&logo=styled-components&logoColor=#E056EB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-222222.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![React Redux](https://img.shields.io/badge/React_Redux-222222.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-222222.svg?style=for-the-badge&logo=redux-saga&logoColor=48EA8A)
+![React Router](https://img.shields.io/badge/React_Router-222222.svg?style=for-the-badge&logo=react-router&logoColor=EF2E40)
+![Create React App](https://img.shields.io/badge/Create_React_App-222222.svg?style=for-the-badge&logo=create-react-app&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-222222.svg?style=for-the-badge&logo=vite&logoColor=D553F9)
+![NPM](https://img.shields.io/badge/NPM-222222.svg?style=for-the-badge&logo=npm&logoColor=EF2E40)
+![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=git&logoColor=EF2E40)
+![Figma](https://img.shields.io/badge/Figma-222222.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-222222.svg?style=for-the-badge&logo=trello&logoColor=3178C6)
 
 ## 🏋️‍♀️&nbsp; In progress:
 
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Jest](https://img.shields.io/badge/Jest-222222.svg?style=for-the-badge&logo=jest&logoColor=D75065)
+![Node.js](https://img.shields.io/badge/Node.js-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ## 🎯&nbsp; Want to learn:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-222222.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781)
+![GraphQL](https://img.shields.io/badge/GraphQL-222222.svg?style=for-the-badge&logo=graphql&logoColor=E434AA)
 
 ## 📈&nbsp; Some stats:
 
