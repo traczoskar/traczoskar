@@ -27,7 +27,7 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-222222.svg?style=for-the-badge&logo=styled-components&logoColor=#E056EB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-222222.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux-222222.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Redux-Saga](https://img.shields.io/badge/Redux-Saga-222222.svg?style=for-the-badge&logo=redux-saga&logoColor=48EA8A)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-222222.svg?style=for-the-badge&logo=redux-saga&logoColor=48EA8A)
 ![React Router](https://img.shields.io/badge/React_Router-222222.svg?style=for-the-badge&logo=react-router&logoColor=EF2E40)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-222222.svg?style=for-the-badge&logo=react-query&logoColor=FF4154)
 ![Create React App](https://img.shields.io/badge/Create_React_App-222222.svg?style=for-the-badge&logo=create-react-app&logoColor=61dafb)
