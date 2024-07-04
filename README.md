@@ -31,6 +31,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-222222.svg?style=for-the-badge&logo=react-router&logoColor=EF2E40)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-222222.svg?style=for-the-badge&logo=react-query&logoColor=FF4154)
 ![Create React App](https://img.shields.io/badge/Create_React_App-222222.svg?style=for-the-badge&logo=create-react-app&logoColor=61dafb)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-222222.svg?style=for-the-badge&logo=framer&logoColor=0055FF)
 ![Vite](https://img.shields.io/badge/Vite-222222.svg?style=for-the-badge&logo=vite&logoColor=D553F9)
 ![NPM](https://img.shields.io/badge/NPM-222222.svg?style=for-the-badge&logo=npm&logoColor=EF2E40)
 ![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=git&logoColor=EF2E40)
