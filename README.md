@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on: 💼 **<a href="https://github.com/traczoskar/portfolio_traczoskar">My portfolio</a>**
 - 🌱 I’m currently learning **Building useful Apps integrated with AI** and practicing my **TypeScript** skills.
 - 📫 How to reach me: **contact@traczoskar.dev** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
+- 🎑 You can find my showcase here 👉 **<a href="https://traczoskar.dev">traczoskar.dev</a>**
 - ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
 
   
