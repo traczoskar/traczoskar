@@ -10,7 +10,7 @@
 
 ## 🟣&nbsp; Facts:
 - 🔬 I’m currently learning: ![Node.js](https://img.shields.io/badge/Node.js-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933)
-- 🌱 I’m currently learning **Building useful Apps integrated with AI** and practicing my **TypeScript** skills.
+- 🌱 And practicing my **TypeScript** skills.
 - 📫 How to reach me: **contact@traczoskar.dev** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
 - 🎑 You can find my showcase here 👉 **<a href="https://traczoskar.dev">traczoskar.dev</a>**
 - ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
