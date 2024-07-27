@@ -30,6 +30,7 @@
 ![Redux](https://img.shields.io/badge/Redux-222222.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-222222.svg?style=for-the-badge&logo=redux-saga&logoColor=48EA8A)
 ![Jest](https://img.shields.io/badge/Jest-222222.svg?style=for-the-badge&logo=jest&logoColor=D75065)
+![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781)
 ![React Router](https://img.shields.io/badge/React_Router-222222.svg?style=for-the-badge&logo=react-router&logoColor=EF2E40)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-222222.svg?style=for-the-badge&logo=react-query&logoColor=FF4154)
 ![Create React App](https://img.shields.io/badge/Create_React_App-222222.svg?style=for-the-badge&logo=create-react-app&logoColor=61dafb)
@@ -47,7 +48,6 @@
 ## 🎯&nbsp; Want to learn:
 
 ![Next.js](https://img.shields.io/badge/Next.js-222222.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781)
 ![GraphQL](https://img.shields.io/badge/GraphQL-222222.svg?style=for-the-badge&logo=graphql&logoColor=E434AA)
 
 ## 📈&nbsp; Some stats:
