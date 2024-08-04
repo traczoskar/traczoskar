@@ -56,5 +56,5 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traczoskar&layout=compact" />
 </a>
 <a href="https://github.com/traczoskar">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true&theme=gruvbox&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=traczoskar&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
