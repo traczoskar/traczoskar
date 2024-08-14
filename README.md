@@ -55,15 +55,15 @@
 
 ## 🏋️‍♀️&nbsp; In progress:
 
-![Next.js](https://img.shields.io/badge/Next.js-222222.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Mongoose](https://img.shields.io/badge/Mongoose-222222.svg?style=for-the-badge&logo=mongoose&logoColor=D75065)
+![Next.js](https://img.shields.io/badge/Next.js-555555.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/Mongoose-555555.svg?style=for-the-badge&logo=mongoose&logoColor=D75065)
 
 ## 🎯&nbsp; Want to learn:
 
-![GraphQL](https://img.shields.io/badge/GraphQL-222222.svg?style=for-the-badge&logo=graphql&logoColor=E434AA)
-![Prisma](https://img.shields.io/badge/Prisma-222222.svg?style=for-the-badge&logo=prisma&logoColor=DDDDDD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222.svg?style=for-the-badge&logo=postgresql&logoColor=6ED7FA)
+![GraphQL](https://img.shields.io/badge/GraphQL-555555.svg?style=for-the-badge&logo=graphql&logoColor=E434AA)
+![Prisma](https://img.shields.io/badge/Prisma-555555.svg?style=for-the-badge&logo=prisma&logoColor=DDDDDD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555.svg?style=for-the-badge&logo=postgresql&logoColor=6ED7FA)
 
 ## 📈&nbsp; Some stats:
 
