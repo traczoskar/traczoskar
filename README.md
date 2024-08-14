@@ -37,11 +37,13 @@
 ### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Hono.js](https://img.shields.io/badge/Hono.js-222222.svg?style=for-the-badge&logo=hono&logoColor=E36002)
+![Express.js](https://img.shields.io/badge/Express.js-222222.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Tests:
 ![Jest](https://img.shields.io/badge/Jest-222222.svg?style=for-the-badge&logo=jest&logoColor=D75065)
 ![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781)
-
 
 ### Other:
 ![OpenAI](https://img.shields.io/badge/OpenAI-222222.svg?style=for-the-badge&logo=openai&logoColor=69D3AC)
