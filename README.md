@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Developer / Sound Engineer / Creator)`**
 
-<p align="left">"👨🏻‍💻 I'm a <strong>React Frontend Developer</strong> focused on user-centric design and modern technologies, currently expanding my skills towards <strong>MERN</strong> and <strong>Next.js Full Stack development</strong>. Motivated by a strong interest in innovation, I develop solutions that meet user needs effectively. Beyond my primary role, I apply insights from sound engineering to create applications that serve specific industry requirements. My goal is to tackle challenges methodically, improving processes and outcomes with each line of code I write."</p>
+<p align="left">👨🏻‍💻 I'm a <strong>React Frontend Developer</strong> focused on user-centric design and modern technologies, currently expanding my skills towards <strong>MERN</strong> and <strong>Next.js Full Stack development</strong>. Motivated by a strong interest in innovation, I develop solutions that meet user needs effectively. Beyond my primary role, I apply insights from sound engineering to create applications that serve specific industry requirements. My goal is to tackle challenges methodically, improving processes and outcomes with each line of code I write.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
 
