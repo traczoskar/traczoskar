@@ -38,6 +38,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Hono.js](https://img.shields.io/badge/Hono.js-222222.svg?style=for-the-badge&logo=hono&logoColor=E36002)
 ![Express.js](https://img.shields.io/badge/Express.js-222222.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -56,7 +57,6 @@
 ## 🏋️‍♀️&nbsp; In progress:
 
 ![Next.js](https://img.shields.io/badge/Next.js-555555.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Mongoose](https://img.shields.io/badge/Mongoose-555555.svg?style=for-the-badge&logo=mongoose&logoColor=D75065)
 
 ## 🎯&nbsp; Want to learn:
