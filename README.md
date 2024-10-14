@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=plastic&style=for-the-badge" alt="views-traczoskar" /> </p>
 
 ## 🟣&nbsp; Facts:
-- 🔬 I’m currently learning: ![Next.js](https://img.shields.io/badge/Next.js-222222.svg?style=for-the-badge&logo=next.js&logoColor=white)
+- 🔬 I’m currently learning: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555.svg?style=for-the-badge&logo=postgresql&logoColor=6ED7FA)
 - 🌱 And practicing my **TypeScript** skills.
 - 📫 How to reach me: **contact@traczoskar.dev** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/traczoskar/)
 - 🎑 You can find my showcase here 👉 **<a href="https://traczoskar.dev">traczoskar.dev</a>**
@@ -18,6 +18,7 @@
 ## 🛠&nbsp; Technologies and Tools:
 
 ### Frontend:
+![Next.js](https://img.shields.io/badge/Next.js-222222.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-222222.svg?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -56,14 +57,14 @@
 
 ## 🏋️‍♀️&nbsp; In progress:
 
-![Next.js](https://img.shields.io/badge/Next.js-555555.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555.svg?style=for-the-badge&logo=postgresql&logoColor=6ED7FA)
 ![Mongoose](https://img.shields.io/badge/Mongoose-555555.svg?style=for-the-badge&logo=mongoose&logoColor=D75065)
 
 ## 🎯&nbsp; Want to learn:
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-555555.svg?style=for-the-badge&logo=graphql&logoColor=E434AA)
 ![Prisma](https://img.shields.io/badge/Prisma-555555.svg?style=for-the-badge&logo=prisma&logoColor=DDDDDD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555.svg?style=for-the-badge&logo=postgresql&logoColor=6ED7FA)
+
 
 ## 📈&nbsp; Some stats:
 
