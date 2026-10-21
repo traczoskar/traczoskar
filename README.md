@@ -6,8 +6,6 @@
 
 <p align="left">👨🏻‍💻 I'm a <strong>Full Stack Developer</strong> who takes products from idea to production: I gather requirements with the client, design the architecture, build the frontend and backend, deploy, and keep it running. Day to day I work with <strong>Next.js, Node.js / NestJS and PostgreSQL</strong>, and I build headless CMS and e-commerce platforms. I've developed my own <strong>agentic workflows</strong> for AI-assisted development and code review, and I keep improving them to raise code quality. Before code, I spent 10 years running my own recording studio, so I care about detail and the end user's experience.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traczoskar&label=Views&color=A630B0&style=for-the-badge" alt="views-traczoskar" /> </p>
-
 ## 🟣&nbsp; Facts:
 - 🚀 Last 4 years: **6900+ commits**, **800+ merged PRs** and **360+ PRs reviewed**.
 - 🛒 Currently building **[Ukojna](https://ukojna.pl)**, a live e-commerce store (Medusa v2 + Next.js + Payload CMS) and a custom ERP for cosmetics production on Open Mercato.
